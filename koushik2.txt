@@ -1,4 +1,4 @@
 
-this is the seventh commit to push into git.xan
+this is the 8th time editing this file to push it to git.
 By editing this file we can add latest version to Git.
 this is my second file in Git.i want to make changes to this file.
