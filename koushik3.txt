@@ -1,3 +1,5 @@
+
+A very important message is this file is edited again and again.
 By using this file edit changes can be idrtified.
 this is edited for the second time and will be continued.
 this is my 3rd file in Git. Tis is to test.
